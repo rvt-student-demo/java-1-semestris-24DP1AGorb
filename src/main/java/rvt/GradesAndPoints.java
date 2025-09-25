@@ -21,7 +21,7 @@ public class GradesAndPoints{
     }   else if (atzime < 100){
             System.out.println("atzime ir 5!");
     }   else if (atzime > 100){
-            System.out.println("Iesapidigi!");
+            System.out.println("Iespaidigi!");
     }
         scanner.close();
     }
