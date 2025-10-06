@@ -30,5 +30,6 @@ public class EvenAndOddNumbers{
         System.out.println("Avarage: " + (double)sum / skaits);
         System.out.println("Even: " + even);
         System.out.println("Odd:" + odd);
+        scanner.close();
     }   
 }
