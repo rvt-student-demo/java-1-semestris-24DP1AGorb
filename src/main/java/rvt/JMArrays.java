@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class JMArrays {
 public static void main(String[] args) {
-only_These_numbers();
+    On_the_List();
 }
 
 public static void List_size() {
@@ -58,7 +58,7 @@ stringss.add("Third");
 
 System.out.println(stringss);
 
-// removeLast(stringss);
+//removeLast(stringss);
 System.out.println(stringss);
 }
 
